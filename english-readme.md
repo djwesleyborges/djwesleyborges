@@ -5,8 +5,6 @@
  <tr><td><a href="https://github.com/djwesleyborges/djwesleyborges/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
 
-<img align="right" src=".github/djn.png" width="300"/> 
-
 My name is Wesley Borges, I live in Aparecida de Goiânia, and I am currently a **Backend** developer
 
 
