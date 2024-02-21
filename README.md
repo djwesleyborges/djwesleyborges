@@ -4,11 +4,7 @@
  <tr><td><a href="https://github.com/djwesleyborges/djwesleyborges/blob/main/english-readme.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/djwesleyborges/djwesleyborges/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
-
-<img align="right" src=".github/djn.png" width="300"/> 
-
 Me chamo Wesley Borges, moro em Aparecida de Goiânia, e atualmente sou desenvolvedor **Backend**
-
 
 [![Blog](https://img.shields.io/website?label=wbsistem.com.br&style=for-the-badge&url=https://wbsistem.com.br/)](https://wbsistem.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wesleyborgesc)
