@@ -15,7 +15,7 @@ My name is Wesley Borges, I live in Aparecida de Goiânia, and I am currently a 
 
 ![Wesley Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwesleyborges&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my daily life
 
 ![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
